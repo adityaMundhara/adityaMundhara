@@ -3,7 +3,6 @@
 - 🔭 Hey, I’m Aditya,
 - 🚀 Good at Typescript, Javascript ,Angular, Express.js and C++.
 - 💥 Feel free to connect me if you need a collaborator.
-- 🌱 I’m currently learning React.js and Game development using Unity and Lua.
 
 <!--
 **adityaMundhara/adityaMundhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
