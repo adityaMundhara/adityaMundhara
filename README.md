@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/adityaMundhara/adityaMundhara/edit/master/README.md)
 - 🔭 Hey, I’m Aditya,
-- 🚀 Good at Typescript, Javascript ,Angular, Express.js and C++.
+- 🚀 Good at Typescript, Javascript ,Angular, Express.js , C++ & C#.
 - 💥 Feel free to connect me if you need a collaborator.
 
 <!--
